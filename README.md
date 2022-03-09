@@ -52,7 +52,7 @@ Está tudo pronto agora... é só baixar o arquivo e executar. Você pode [acess
 #Clone este repositório
 $ git clone <https://github.com/DevFernandoNunes/Projeto1-Mod1.git>
 
-#Abra o arquivo index.html que está na raiz da pasta principal após clonar o repositório.
+#Abra o arquivo projeto1.js que está na raiz da pasta principal após clonar o repositório.
  
 ``` 
  
