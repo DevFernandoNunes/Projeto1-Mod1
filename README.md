@@ -29,7 +29,7 @@ O programa deve contar a história inicial (background), fazer as perguntas, e a
 
 ## Funcionalidades
 
-:heavy_check_mark: `Conceitos adquiridos 1:` Desenvolvimento do raciocínio lógico voltado a lógica de programção.
+:heavy_check_mark: `Conceitos adquiridos 1:` Desenvolvimento do raciocínio lógico voltado a lógica de programação utilizando Javascript.
 
 ## Ferramentas utilizadas
  
@@ -43,14 +43,14 @@ Antes de começar você vai precisar ter instalado em sua máquina as seguintes 
 [Git](https://git-scm.com/), [NodeJS](https://nodejs.org/en/).
 Além disto é bom ter um editor para trabahar com o código como [VScode](https://code.visualstudio.com/).
 
-Está tudo pronto agora... é só baixar o arquivo e executar. Você pode [acessar o código fonte do projeto](https://github.com/DevFernandoNunes/Flexbox)
+Está tudo pronto agora... é só baixar o arquivo e executar. Você pode [acessar o código fonte do projeto](https://github.com/DevFernandoNunes/Projeto1-Mod1)
 
 ## Abrir e rodar o projeto
 
 ```bash
  
 #Clone este repositório
-$ git clone <https://github.com/DevFernandoNunes/Flexbox.git>
+$ git clone <https://github.com/DevFernandoNunes/Projeto1-Mod1.git>
 
 #Abra o arquivo index.html que está na raiz da pasta principal após clonar o repositório.
  
@@ -58,7 +58,7 @@ $ git clone <https://github.com/DevFernandoNunes/Flexbox.git>
  
 ## Desenvolvedor
 
-| [<img src="https://avatars.githubusercontent.com/u/95880342?v=4" width=115><br><sub>Fernando Nunes</sub>](https://github.com/camilafernanda) |
+| [<img src="https://avatars.githubusercontent.com/u/95880342?v=4" width=115><br><sub>Fernando Nunes</sub>](https://github.com/DevFernandoNunes) |
 | :---: |
 
  
